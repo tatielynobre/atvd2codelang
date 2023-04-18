@@ -1,0 +1,10 @@
+body{
+    background-color: cadetblue;
+}
+#div1{
+    background-color: yellowgreen;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 3%;
+}
